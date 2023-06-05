@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
--Unknown- 
+Unknown
 
 # Ürün İle İlgili Bilgiler
 
