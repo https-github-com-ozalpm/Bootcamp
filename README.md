@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Unknown
+Eastern
 
 # Ürün İle İlgili Bilgiler
 
